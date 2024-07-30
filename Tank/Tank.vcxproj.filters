@@ -42,6 +42,9 @@
     <ClInclude Include="Game.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="GameEntry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Tank.cpp">
@@ -81,6 +84,84 @@
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="0.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="1.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="2.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="3.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="4.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="5.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="6.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="7.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="8.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="9.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="10.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="11.gif">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_1player_0.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_1player_1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_2plyaer_0.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_2plyaer_1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_background.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_backup.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_key_player01_0.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_key_player01_1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_key_player02_0.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="menu_key_player02_1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="tank_bot.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="tank_player1.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="tank_player2.png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="坦克-恢复的.png">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>

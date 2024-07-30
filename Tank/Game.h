@@ -1,4 +1,5 @@
 #pragma once
+// 主体类 将各模块的功能串联起来
 class CGame
 {
 public:

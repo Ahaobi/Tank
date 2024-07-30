@@ -185,6 +185,7 @@
   <ItemGroup>
     <ClInclude Include="Game.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="GameEntry.h" />
     <ClInclude Include="MainFrm.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Resource.h" />
@@ -213,9 +214,35 @@
     <None Include="res\Tank.rc2" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="0.gif" />
+    <Image Include="1.gif" />
+    <Image Include="10.gif" />
+    <Image Include="11.gif" />
+    <Image Include="2.gif" />
+    <Image Include="3.gif" />
+    <Image Include="4.gif" />
+    <Image Include="5.gif" />
+    <Image Include="6.gif" />
+    <Image Include="7.gif" />
+    <Image Include="8.gif" />
+    <Image Include="9.gif" />
+    <Image Include="menu_1player_0.png" />
+    <Image Include="menu_1player_1.png" />
+    <Image Include="menu_2plyaer_0.png" />
+    <Image Include="menu_2plyaer_1.png" />
+    <Image Include="menu_background.png" />
+    <Image Include="menu_backup.png" />
+    <Image Include="menu_key_player01_0.png" />
+    <Image Include="menu_key_player01_1.png" />
+    <Image Include="menu_key_player02_0.png" />
+    <Image Include="menu_key_player02_1.png" />
     <Image Include="res\Tank.ico" />
     <Image Include="res\TankDoc.ico" />
     <Image Include="res\Toolbar.bmp" />
+    <Image Include="tank_bot.png" />
+    <Image Include="tank_player1.png" />
+    <Image Include="tank_player2.png" />
+    <Image Include="坦克-恢复的.png" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
